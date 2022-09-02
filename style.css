@@ -1,0 +1,54 @@
+* {
+    font-family: sans-serif;
+}
+
+
+#intro {
+    font-family: sans-serif;
+}
+
+a:link {
+    text-decoration: none;
+}
+#meal-1 {
+    text-decoration: none;
+
+}
+
+.headers {
+    font-family: sans-serif;
+    color: cornflowerblue;
+}
+
+.recipe-name {
+    font-family: sans-serif;
+    color:cornflowerblue;
+}
+
+.odin {
+    color: brown;
+    font-family: sans-serif;
+}
+
+img {
+    border-radius: 10px;
+    box-shadow: inset;
+}
+
+.directions {
+    font-family: sans-serif;
+}
+
+.ingredients {
+    font-family: sans-serif;
+}
+
+#backToIndex {
+    width: 20vh;
+    height: 20px;
+}
+
+#foodImage {
+    width: 80vh;
+    height: 80vh;    
+}
